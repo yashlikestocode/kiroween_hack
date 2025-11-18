@@ -83,4 +83,5 @@ ghostarchive/
 - ✅ Interactive command system
 - ✅ Lore and mystery elements
 
-Built with 💀 for Kiroween 2024
+Built with 💀 for Kiroween 2025
+
