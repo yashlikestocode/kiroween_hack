@@ -1,0 +1,23 @@
+[
+  {
+    "id": "napoleon_log1",
+    "title": "Battle of Austerlitz - 1805",
+    "corruption": 73,
+    "content": "### CORRUPTED ### ...the sun broke through... ### DATA LOST ###",
+    "restored": "December 2, 1805. The Sun of Austerlitz. My greatest victory. The Allied forces thought they had me trapped, but I saw their weakness. The Pratzen Heights - that was the key. Let them think they were winning, then strike at the center. 73,000 men under my command defeated 85,000. This is what genius looks like on the battlefield."
+  },
+  {
+    "id": "napoleon_log2",
+    "title": "Exile Thoughts - St. Helena",
+    "corruption": 89,
+    "content": "### 11% REMAINING ### ...alone on this rock... betrayed by...",
+    "restored": "This island prison cannot contain my mind. They took my empire, my army, my freedom - but not my legacy. History will remember Napoleon Bonaparte not as a prisoner, but as the man who reshaped Europe. My code of laws will outlive all the kings who conspired against me."
+  },
+  {
+    "id": "napoleon_log3",
+    "title": "Strategic Notes - Russian Campaign",
+    "corruption": 95,
+    "content": "### CRITICAL CORRUPTION ### ...the winter... mistake...",
+    "restored": "The Russian winter of 1812. My greatest miscalculation. 600,000 men marched into Russia. Fewer than 100,000 returned. The cold was an enemy I could not outmaneuver. Moscow burned, and with it, my invincibility. Even emperors can fall to nature's wrath."
+  }
+]

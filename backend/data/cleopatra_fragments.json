@@ -1,0 +1,23 @@
+[
+  {
+    "id": "cleopatra_scroll1",
+    "title": "Royal Decree - Year 47 BCE",
+    "corruption": 68,
+    "content": "### HIEROGLYPHS CORRUPTED ### ...Caesar arrived... alliance...",
+    "restored": "Julius Caesar has arrived in Alexandria. The civil war with my brother Ptolemy threatens my throne. But I am no ordinary queen - I am descended from the Ptolemies, from Alexander's general. I will use every weapon at my disposal: my intellect, my charm, my political acumen. Caesar will be my ally, and together we will secure Egypt's future."
+  },
+  {
+    "id": "cleopatra_scroll2",
+    "title": "Love Letter Fragment - Mark Antony",
+    "corruption": 82,
+    "content": "### PAPYRUS DEGRADED ### ...my heart... Rome and Egypt...",
+    "restored": "My dearest Antony, the Nile flows with the same passion that burns between us. Rome may call you, but Egypt - and I - hold your heart. Together we are unstoppable. Let Octavian scheme in the Senate; we have the wealth of the East and the power of love itself. Our union will create an empire that spans from the Mediterranean to the edges of the known world."
+  },
+  {
+    "id": "cleopatra_scroll3",
+    "title": "Final Testament",
+    "corruption": 91,
+    "content": "### NEARLY LOST ### ...the asp... dignity... never surrender...",
+    "restored": "They will not parade me through Rome in chains. I am Cleopatra VII Philopator, Queen of Egypt, and I will die as I lived - on my own terms. The asp's bite is swift, they say. Better a queen's death by her own hand than a captive's humiliation. Let history remember: Egypt's last pharaoh chose dignity over defeat."
+  }
+]

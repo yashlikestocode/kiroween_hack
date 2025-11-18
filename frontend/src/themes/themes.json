@@ -1,0 +1,32 @@
+{
+  "default": {
+    "background": "#000000",
+    "textColor": "#00ff00",
+    "accent": "#00ff00",
+    "glitchIntensity": 0.3
+  },
+  "napoleon": {
+    "background": "#0f1208",
+    "textColor": "#90ff9f",
+    "accent": "#3aff4f",
+    "glitchIntensity": 0.4
+  },
+  "cleopatra": {
+    "background": "#1a1206",
+    "textColor": "#ffd700",
+    "accent": "#ffaa00",
+    "glitchIntensity": 0.3
+  },
+  "monalisa": {
+    "background": "#1a1410",
+    "textColor": "#d4a574",
+    "accent": "#8b6f47",
+    "glitchIntensity": 0.2
+  },
+  "tesla": {
+    "background": "#020818",
+    "textColor": "#00d4ff",
+    "accent": "#0088ff",
+    "glitchIntensity": 0.5
+  }
+}
